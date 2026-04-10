@@ -23,7 +23,34 @@
 
 ## 진행 상황
 - [x] PRD 프레임 작성
-- [ ] 상세 파트 작업
+- [x] Brainstorming 디자인 스펙 작성 (`docs/superpowers/specs/`)
+- [x] 기획팀 상세 작업 완료 (`planning/`)
+- [ ] 디자인팀 작업 대기
+- [ ] CX팀 작업 대기
+- [ ] 마케팅팀 작업 대기
+- [ ] 전략팀 작업 대기
+
+## 주요 산출물
+
+| 위치 | 내용 |
+|------|------|
+| `PRD.md` | 8섹션 PRD 프레임 |
+| `docs/superpowers/specs/2026-04-10-사라지는-메모장-design.md` | PM이 결정한 11가지 핵심 사항 |
+| `planning/functional-spec.md` | 11개 기능의 상세 명세 (FN-01~11) |
+| `planning/user-scenarios.md` | 5가지 대표 사용자 시나리오 |
+| `planning/mvp-priority.md` | P0/P1/P2 우선순위 및 3단계 로드맵 |
+| `planning/edge-cases.md` | 9개 카테고리 예외 처리 정책 |
+
+## 다음 팀에게 남기는 과제
+
+기획팀이 작업 중 PM에게 남긴 열린 질문 5가지:
+1. 백그라운드 타이머 동작 방식
+2. 새로고침 시 경고 팝업 여부
+3. 접근성 MVP 레벨
+4. 긴 글 성능 가이드
+5. 런칭 일정 고정
+
+자세한 내용은 `planning/` 각 문서 하단 "PM 결정 필요" 항목 참조.
 
 ---
 *GitHub 협업 워크숍 — selfishclub-workshop*
